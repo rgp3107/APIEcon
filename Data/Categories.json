@@ -1,0 +1,47 @@
+[
+    {
+      "categoryId": 1,
+      "categoryName": "Electronics",
+      "categoryType": "Mobile"
+    },
+    {
+      "categoryId": 2,
+      "categoryName": "Electronics",
+      "categoryType": "Laptop"
+    },
+    {
+      "categoryId": 3,
+      "categoryName": "Electronics",
+      "categoryType": "Computer"
+    },
+    {
+      "categoryId": 4,
+      "categoryName": "Electronics",
+      "categoryType": "Accessories"
+    },
+    {
+      "categoryId": 5,
+      "categoryName": "Electronics",
+      "categoryType": "Watch"
+    },
+    {
+      "categoryId": 6,
+      "categoryName": "Electronics",
+      "categoryType": "Tablet"
+    },
+    {
+      "categoryId": 7,
+      "categoryName": "Electronics",
+      "categoryType": "Chromebooks"
+    },
+    {
+      "categoryId": 8,
+      "categoryName": "Electronics",
+      "categoryType": "Printers"
+    },
+    {
+      "categoryId": 9,
+      "categoryName": "Electronics",
+      "categoryType": "Speakers"
+    }
+  ]
